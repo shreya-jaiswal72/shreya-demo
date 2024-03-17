@@ -1,4 +1,4 @@
 # shreya-demo
 This is my first Git Repository
 <br>
-Author-Shreya Jaiswal
+Author-Shreya (Jais)
